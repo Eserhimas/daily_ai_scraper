@@ -1,0 +1,46 @@
+[
+  {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/feed/"
+  },
+  {
+    "name": "The Verge",
+    "url": "https://www.theverge.com/rss/index.xml"
+  },
+  {
+    "name": "Reddit - AI",
+    "url": "https://www.reddit.com/r/artificial/.rss"
+  },
+  {
+    "name": "AI Tech Park",
+    "url": "https://ai-techpark.com/category/ai/feed/"
+  },
+  {
+    "name": "KnowTechie",
+    "url": "https://knowtechie.com/category/ai/feed/"
+  },
+  {
+    "name": "AI Business",
+    "url": "https://aibusiness.com/rss.xml"
+  },
+  {
+    "name": "Reddit - AI Prompt Programming",
+    "url": "https://www.reddit.com/r/aipromptprogramming/.rss"
+  },
+  {
+    "name": "SiliconAngle",
+    "url": "https://siliconangle.com/category/ai/feed"
+  },
+  {
+    "name": "ArsTechnica",
+    "url": "https://feeds.arstechnica.com/arstechnica/index"
+  },
+  {
+    "name": "Wired",
+    "url": "https://www.wired.com/feed/tag/ai/latest/rss"
+  },
+  {
+    "name": "TechRepublic",
+    "url": "https://www.techrepublic.com/rssfeeds/topic/artificial-intelligence/"
+  }
+]
